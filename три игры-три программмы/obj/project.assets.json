@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\три игры-три программмы\\три игры-три программмы\\три игры-три программмы.csproj",
+      "projectUniqueName": "D:\\3игры-3программмы\\три игры-три программмы\\три игры-три программмы.csproj",
       "projectName": "три игры-три программмы",
-      "projectPath": "D:\\три игры-три программмы\\три игры-три программмы\\три игры-три программмы.csproj",
+      "projectPath": "D:\\3игры-3программмы\\три игры-три программмы\\три игры-три программмы.csproj",
       "packagesPath": "C:\\Users\\user6\\.nuget\\packages\\",
-      "outputPath": "D:\\три игры-три программмы\\три игры-три программмы\\obj\\",
+      "outputPath": "D:\\3игры-3программмы\\три игры-три программмы\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user6\\AppData\\Roaming\\NuGet\\NuGet.Config",
